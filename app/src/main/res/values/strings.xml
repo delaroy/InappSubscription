@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InappSubscription</string>
+
+    <string name="subscription_period_prompt">Select your subscription period</string>
+    <string name="subscription_resignup_prompt">To reactivate your subscription, select your subscription period</string>
+    <string name="subscription_update_prompt">To change your subscription, select your new subscription period</string>
+    <string name="subscription_period_monthly">Monthly $1.99</string>
+    <string name="subscription_period_threemonth">Three Month $4.99</string>
+    <string name="subscription_period_sixmonth">Six Month $6.99</string>
+    <string name="subscription_period_yearly">Yearly $11.99</string>
+    <string name="subscription_prompt_continue">Continue</string>
+    <string name="subscription_prompt_cancel">Cancel</string>
+    <string name="content_description_app_loading_image">App loading image</string>
+    <string name="content_description_title_image">80\'s Video Game Style Car Logo</string>
+    <string name="content_desc_gas_gauge_indicator">Gas gauge indicator</string>
+    <string name="content_desc_free_vs_premium_indicator">Free or Premium Image Indicator</string>
+</resources>
